@@ -1,4 +1,4 @@
-set(ROOT_DIRECTORY "/home/vdev/git/ViennaData")
+set(ROOT_DIRECTORY "/Users/vdev/git/ViennaData")
 set(CTEST_SOURCE_DIRECTORY $ENV{VIENNADATAPATH})
 set(USED_PROJECTS "VIENNADATA")
 set(CTEST_BUILD_OPTIONS "")
